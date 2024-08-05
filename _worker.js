@@ -10,7 +10,7 @@ const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestp
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
-let IP1 = 'www.visa.com'
+let IP1 = 'cloudflare.com'
 let IP2 = 'cis.visa.com'
 let IP3 = 'africa.visa.com'
 let IP4 = 'www.visa.com.sg'
@@ -19,12 +19,12 @@ let IP6 = 'www.visa.com.mt'
 let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
-let IP8 = 'usa.visa.com'
-let IP9 = 'cloudflare.com'
-let IP10 = 'cloudflare.com'
-let IP11 = 'cloudflare.com'
-let IP12 = 'cloudflare.com'
-let IP13 = 'cloudflare.com'
+let IP8 = 'dash.cloudflare.com'
+let IP9 = 'dash.cloudflare.com'
+let IP10 = 'dash.cloudflare.com'
+let IP11 = 'dash.cloudflare.com'
+let IP12 = 'dash.cloudflare.com'
+let IP13 = 'dash.cloudflare.com'
 
 // http_port
 let PT1 = '80'
