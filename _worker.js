@@ -6,9 +6,9 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
-const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk cloudflare.com
+const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk cloudflare.com site.ip138.com
 const cn_hostnames = [''];
-let CDNIP = 'www.visa.com.sg'
+let CDNIP = 'site.ip138.com'
 // http_ip
 let IP1 = 'cloudflare.com'
 let IP2 = 'cis.visa.com'
@@ -19,12 +19,12 @@ let IP6 = 'www.visa.com.mt'
 let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
-let IP8 = 'dash.cloudflare.com'
-let IP9 = 'dash.cloudflare.com'
-let IP10 = 'dash.cloudflare.com'
-let IP11 = 'dash.cloudflare.com'
-let IP12 = 'dash.cloudflare.com'
-let IP13 = 'dash.cloudflare.com'
+let IP8 = 'site.ip138.com'
+let IP9 = 'site.ip138.com'
+let IP10 = 'site.ip138.com'
+let IP11 = 'site.ip138.com'
+let IP12 = 'site.ip138.com'
+let IP13 = 'site.ip138.com'
 
 // http_port
 let PT1 = '80'
