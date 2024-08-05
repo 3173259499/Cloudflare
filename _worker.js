@@ -6,17 +6,17 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
-const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk cloudflare.com site.ip138.com
+const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org site.ip138.com www.kali.org
 const cn_hostnames = [''];
 let CDNIP = 'www.kali.org'
 // http_ip
-let IP1 = 'cloudflare.com'
-let IP2 = 'cis.visa.com'
-let IP3 = 'africa.visa.com'
-let IP4 = 'www.visa.com.sg'
-let IP5 = 'www.visaeurope.at'
-let IP6 = 'www.visa.com.mt'
-let IP7 = 'qa.visamiddleeast.com'
+let IP1 = 'www.kali.org'
+let IP2 = 'www.kali.org'
+let IP3 = 'www.kali.org'
+let IP4 = 'www.kali.org'
+let IP5 = 'www.kali.org'
+let IP6 = 'www.kali.org'
+let IP7 = 'www.kali.org'
 
 // https_ip
 let IP8 = 'www.kali.org'
