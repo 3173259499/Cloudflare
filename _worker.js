@@ -8,7 +8,7 @@ let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
 const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk cloudflare.com site.ip138.com
 const cn_hostnames = [''];
-let CDNIP = 'site.ip138.com'
+let CDNIP = 'www.kali.org'
 // http_ip
 let IP1 = 'cloudflare.com'
 let IP2 = 'cis.visa.com'
@@ -19,12 +19,12 @@ let IP6 = 'www.visa.com.mt'
 let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
-let IP8 = 'site.ip138.com'
-let IP9 = 'site.ip138.com'
-let IP10 = 'site.ip138.com'
-let IP11 = 'site.ip138.com'
-let IP12 = 'site.ip138.com'
-let IP13 = 'site.ip138.com'
+let IP8 = 'www.kali.org'
+let IP9 = 'www.kali.org'
+let IP10 = 'www.kali.org'
+let IP11 = 'www.kali.org'
+let IP12 = 'www.kali.org'
+let IP13 = 'www.kali.org'
 
 // http_port
 let PT1 = '80'
