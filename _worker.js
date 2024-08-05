@@ -10,21 +10,21 @@ const proxyIPs = ["test-ipv6.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestpr
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
-let IP1 = 'www.visa.com'
-let IP2 = 'cis.visa.com'
-let IP3 = 'africa.visa.com'
-let IP4 = 'www.visa.com.sg'
-let IP5 = 'www.visaeurope.at'
-let IP6 = 'www.visa.com.mt'
-let IP7 = 'qa.visamiddleeast.com'
+let IP1 = 'test-ipv6.com'
+let IP2 = 'test-ipv6.com'
+let IP3 = 'test-ipv6.com'
+let IP4 = test-ipv6.com''
+let IP5 = 'test-ipv6.com'
+let IP6 = 'test-ipv6.com'
+let IP7 = 'test-ipv6.com'
 
 // https_ip
-let IP8 = 'usa.visa.com'
-let IP9 = 'myanmar.visa.com'
-let IP10 = 'www.visa.com.tw'
-let IP11 = 'www.visaeurope.ch'
-let IP12 = 'www.visa.com.br'
-let IP13 = 'www.visasoutheasteurope.com'
+let IP8 = 'test-ipv6.com'
+let IP9 = 'test-ipv6.com'
+let IP10 = 'test-ipv6.com'
+let IP11 = 'test-ipv6.com'
+let IP12 = 'test-ipv6.com'
+let IP13 = 'test-ipv6.com'
 
 // http_port
 let PT1 = '80'
@@ -38,7 +38,7 @@ let PT7 = '2095'
 // https_port
 let PT8 = '443'
 let PT9 = '8443'
-let PT10 = '2053'
+let PT10 = '1110'
 let PT11 = '2083'
 let PT12 = '2087'
 let PT13 = '2096'
