@@ -10,10 +10,10 @@ const proxyIPs = ["test-ipv6.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestpr
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
-let IP1 = 'test-ipv6.com'
-let IP2 = 'test-ipv6.com'
-let IP3 = 'test-ipv6.com'
-let IP4 = test-ipv6.com''
+let IP1 = 'cloudflare.com'
+let IP2 = 'cloudflare.com'
+let IP3 = 'cloudflare.com'
+let IP4 = 'cloudflare.com'
 let IP5 = 'test-ipv6.com'
 let IP6 = 'test-ipv6.com'
 let IP7 = 'test-ipv6.com'
