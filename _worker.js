@@ -4,9 +4,9 @@ import { connect } from "cloudflare:sockets";
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = "77a571fb-4fd2-4b37-8596-1b7d9728bb5c";
+let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
-const proxyIPs = ["proxy.xxxxxxxx.tk"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
+const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk cloudflare.com
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
@@ -20,11 +20,11 @@ let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
 let IP8 = 'usa.visa.com'
-let IP9 = 'myanmar.visa.com'
-let IP10 = 'www.visa.com.tw'
-let IP11 = 'www.visaeurope.ch'
-let IP12 = 'www.visa.com.br'
-let IP13 = 'www.visasoutheasteurope.com'
+let IP9 = 'cloudflare.com'
+let IP10 = 'cloudflare.com'
+let IP11 = 'cloudflare.com'
+let IP12 = 'cloudflare.com'
+let IP13 = 'cloudflare.com'
 
 // http_port
 let PT1 = '80'
