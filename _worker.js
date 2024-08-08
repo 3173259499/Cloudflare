@@ -6,9 +6,9 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
-const proxyIPs = ["cloudflare.com"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org site.ip138.com www.kali.org dash.cloudflare.com cloudflare.com
+const proxyIPs = ["www.speedtest.net"]; www.speedtest.net
 const cn_hostnames = [''];
-let CDNIP = 'www.kali.org'
+let CDNIP = 'www.speedtest.net'
 // http_ip
 let IP1 = 'www.kali.org'
 let IP2 = 'www.kali.org'
@@ -19,12 +19,12 @@ let IP6 = 'www.kali.org'
 let IP7 = 'www.kali.org'
 
 // https_ip
-let IP8 = 'www.kali.org'
-let IP9 = 'www.kali.org'
-let IP10 = 'www.kali.org'
-let IP11 = 'www.kali.org'
-let IP12 = 'www.kali.org'
-let IP13 = 'www.kali.org'
+let IP8 = 'www.speedtest.net'
+let IP9 = 'www.speedtest.net'
+let IP10 = 'www.speedtest.net'
+let IP11 = 'www.speedtest.net'
+let IP12 = 'www.speedtest.net'
+let IP13 = 'www.speedtest.net'
 
 // http_port
 let PT1 = '80'
