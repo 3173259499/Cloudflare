@@ -6,25 +6,25 @@ import { connect } from "cloudflare:sockets";
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = "aa8d909c-6501-4b86-9934-a5a42c718994";
 
-const proxyIPs = ["speedtest.net"]
+const proxyIPs = ["bing.com"]
 const cn_hostnames = [''];
-let CDNIP = 'speedtest.net'
+let CDNIP = 'bing.com'
 // http_ip
-let IP1 = 'speedtest.net'
-let IP2 = 'speedtest.net'
-let IP3 = 'speedtest.net'
-let IP4 = 'speedtest.net'
-let IP5 = 'speedtest.net'
-let IP6 = 'speedtest.net'
-let IP7 = 'speedtest.net'
+let IP1 = 'bing.com'
+let IP2 = 'bing.com'
+let IP3 = 'bing.com'
+let IP4 = 'bing.com'
+let IP5 = 'bing.com'
+let IP6 = 'bing.com'
+let IP7 = 'bing.com'
 
 // https_ip
-let IP8 = 'speedtest.net'
-let IP9 = 'speedtest.net'
-let IP10 = 'speedtest.net'
-let IP11 = 'speedtest.net'
-let IP12 = 'speedtest.net'
-let IP13 = 'speedtest.net'
+let IP8 = 'bing.com'
+let IP9 = 'bing.com'
+let IP10 = 'bing.com'
+let IP11 = 'bing.com'
+let IP12 = 'bing.com'
+let IP13 = 'bing.com'
 
 // http_port
 let PT1 = '80'
